@@ -4,3 +4,5 @@ So I was going for some unique capabilities particularly the ability to zoom in 
 
 
 more thought is needed on this.
+
+it actually is adding some fairly nice character.. with the proper setting this likely can get you places other delay plugins cannot.
